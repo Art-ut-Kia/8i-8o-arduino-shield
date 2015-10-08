@@ -9,7 +9,7 @@
 <grid distance="0.0125" unitdist="inch" unit="mm" style="lines" multiple="2" display="no" altdistance="25" altunitdist="mil" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
@@ -155,8 +155,8 @@
 <hole x="15.24" y="50.8" drill="3.2"/>
 <hole x="66.04" y="7.62" drill="3.2"/>
 <hole x="66.04" y="35.56" drill="3.2"/>
-<text x="71.4375" y="30.7975" size="3.81" layer="21">OUDEIS</text>
-<text x="72.0725" y="26.9875" size="1.778" layer="21">[u] [de] [is]</text>
+<text x="2.2225" y="39.6875" size="3.81" layer="21">OUDEIS</text>
+<text x="4.7625" y="36.5125" size="1.778" layer="21">[u] [de] [is]</text>
 <hole x="13.97" y="2.54" drill="3.2"/>
 </plain>
 <libraries>
