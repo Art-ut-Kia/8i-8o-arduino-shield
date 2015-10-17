@@ -1,5 +1,5 @@
 /******************************************************************************
- * Test8i8o.ino :          8 input / 8 output OUDEIS shield test              *
+ * Test8i8o_ascii.ino :         8 input / 8 output OUDEIS shield test         *
  * 1) outputs :                                                               *
  *    - switches on LEDs 1..8 on reception of 'A'..'H'                        *
  *    - switches off LEDs 1..8 on reception of 'a'..'h'                       *
